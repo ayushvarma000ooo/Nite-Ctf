@@ -3,7 +3,7 @@
 
 # Qurious Case
 ## Chall Discription
- > Our question creator has deviated from the standard method of making questions. He has hidden >and corrupted the flag. Can you recover it?
+   Our question creator has deviated from the standard method of making questions. He has hidden >and corrupted the flag. Can you recover it?
    we were provided a dark image
 
 
