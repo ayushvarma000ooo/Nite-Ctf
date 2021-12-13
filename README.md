@@ -11,6 +11,7 @@
  
 ## Soultion:
 - Initially by randomizing the colour pallate by cyberchef we get the QR code but the code is 1/4th missing.
+  
   ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/download%20(1).png)
   
 - So i fired up microsoft excel (no specific reason it was the best image editor i had) so edited the QR code to add the upper left box in the QR code.
