@@ -31,7 +31,8 @@
    ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/download%20(1).png)
    
 ## Soultion:
-- by using steghide on the image we got .txt file which had 
+- we ran steghide on the image wich showed a .txt file
+  ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/download%20(1).png)
   "i found this inside the zombie-apocalypse-1 file:
 oops, i lied! there's no flag here. however, your effort shall not go to waste:
 
@@ -40,6 +41,6 @@ good thing there's an official contingency plan in place, but what is it? i hope
 
 flag format: all lowercase, no spaces"
 - it ment we have to osint the flag 
-- after searching on our mighty search engine google we got a pdf which indicated the zombie attack plan (sounds crazy) it was conplan8888 which was the falg
+- after searching on our mighty search engine google we got a pdf [a link](https://www.stratcom.mil/Portals/8/Documents/FOIA/CONPLAN_8888-11.pdf?ver=2016-10-17-114016-887) which indicated the zombie attack plan (sounds crazy) it was conplan8888 which was the falg
   
    
