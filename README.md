@@ -72,7 +72,7 @@ image was given
   ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/Zombie-Apocalypse%202/Capture1.PNG)
   ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/Zombie-Apocalypse%202/Capture%202.PNG)
  
-  so we got the bunker number which was ```69420``` XD
+  so we got the bunker number which was ```69420``` (XD)
 - according to the flag format nite{statename_bunkernumber}
 
 ## Flag
