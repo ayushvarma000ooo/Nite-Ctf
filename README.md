@@ -29,12 +29,12 @@
    
    image was given
    
-   ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/download%20(1).png)
+   ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/Zombie-Apocalypse%201/1%20zombies.jpg)
    
 ## Soultion:
 - we ran steghide on the image wich showed a .txt file
  
-  ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/download%20(1).png)
+  ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/Zombie-Apocalypse%201/unknown%20(1).png)
   
   "i found this inside the zombie-apocalypse-1 file:
 oops, i lied! there's no flag here. however, your effort shall not go to waste:
