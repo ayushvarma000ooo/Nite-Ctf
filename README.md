@@ -58,21 +58,25 @@ Flag Format: nite{statename_bunkernumber} replace spaces with underscore
 
 image was given
 
-![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/Zombie-Apocalypse%201/1%20zombies.jpg)
+![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/Zombie-Apocalypse%202/chal_file.jpg)
 
 ## Soultion:
 - At first glance it appered as an OSINT challange so i went to tineye to do the reverse search the image which ultimately lead to a many news sites which told the location of the photograph
 
- ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/Zombie-Apocalypse%201/unknown%20(1).png)
+ ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/Zombie-Apocalypse%202/Capture.PNG)
  
 - It was south_dakota it was one part of the flag for the second part we needed to know the correct bunker number as there are many bunkers at that place.
 - looking at the challange discription, it said _It's like 7th heaven compared to the hell out here_ which indicated 7 planes of the image and something is there at the 7th plane so we went to https://stegonline.georgeom.net to extract the data
 - exracting data by selecting 7th order RGB values we get  
  
- ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/Zombie-Apocalypse%201/unknown%20(1).png)
+  ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/Zombie-Apocalypse%202/Capture1.PNG)
+  ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/Zombie-Apocalypse%202/Capture%202.PNG)
  
- so we got the bunker number which was 69420 XD
+  so we got the bunker number which was ```69420``` XD
+- according to the flag format nite{statename_bunkernumber}
 
+## Flag
+The flag was ```nite{south_dakota_69420}```
 
 
 
