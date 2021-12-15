@@ -22,3 +22,24 @@
 - after reading the corrected QR code i got the flag.
 ## Flag
 - The flag was ```nite{tH@T'$_qRazzYyYy}```
+
+# Zombie-Apocalypse 1
+## Chall Discription
+   zombies are coming, seek shelter quickly
+   
+   image was given
+   ![App Screenshot](https://github.com/ayushvarma000ooo/Nite-Ctf/blob/main/download%20(1).png)
+   
+## Soultion:
+- by using steghide on the image we got .txt file which had 
+  "i found this inside the zombie-apocalypse-1 file:
+oops, i lied! there's no flag here. however, your effort shall not go to waste:
+
+we're ALWAYS attacked by aliens, and now zombies too?!
+good thing there's an official contingency plan in place, but what is it? i hope it isn't a joke though
+
+flag format: all lowercase, no spaces"
+- it ment we have to osint the flag 
+- after searching on our mighty search engine google we got a pdf which indicated the zombie attack plan (sounds crazy) it was conplan8888 which was the falg
+  
+   
